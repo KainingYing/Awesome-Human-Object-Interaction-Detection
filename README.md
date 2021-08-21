@@ -1,6 +1,6 @@
 # Awesome-Human-Object-Interaction-Detection
 
-Recent HOI works and related works. Welcome to comment and contribute!
+This repository is mainly used to record some papers I have read.  Mainly include work about HOI(Human-Object Interaction) and some related work. 
 
 Keep updated.
 
@@ -8,11 +8,14 @@ Keep updated.
 
 ### 2021
 
+- [ICCV'2021] Exploiting **Scene Graphs** for Human-Object Interaction Detection, [[Paper]](https://arxiv.org/pdf/2108.08584.pdf), [[Code]](https://github.com/ht014/SG2HOI)
+
 - [CVPR'2021] Learning **Graph** Embeddings for Compositional Zero-shot Learning, [[Paper]](https://arxiv.org/pdf/2102.01987.pdf), [[Code]](https://github.com/ExplainableML/czsl)
 
 ### 2020
 
 - 🎈[ACMMM'2020] ConsNet: Learning Consistency Graph for Zero-Shot **Human-Object Interaction Detection**, [[Paper]](https://arxiv.org/pdf/2008.06254.pdf), [[Code]](https://github.com/yeliudev/ConsNet)
+- [ECCV'2020] Visual **Compositional Learning** for Human-Object Interaction Detection, [[Paper]](https://arxiv.org/pdf/2007.12407.pdf), [[Code]](https://github.com/zhihou7/VCL)
 
 ### 2018
 
@@ -25,9 +28,13 @@ Keep updated.
 
 ## Related works
 
+
+
 ## TODO
 
 - [x] [ACMMM'2020] ConsNet: Learning Consistency Graph for Zero-Shot Human-Object Interaction Detection
 - [ ] [CVPR'2021] Affordance Transfer Learning for Human-Object Interaction Detection
-- [ ] [ECCV'2020] Visual Compositional Learning for Human-Object Interaction Detection
+- [x] [ECCV'2020] Visual Compositional Learning for Human-Object Interaction Detection
 - [x] [WACV'2018] Learning to Detect Human-Object Interactions
+- [ ] [CVPR'2021] Seesaw Loss for Long-Tailed Instance Segmentation
+- [ ] [CVPR'2020] Unbiased Scene Graph Generation from Biased Training 
