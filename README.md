@@ -38,3 +38,4 @@ Keep updated.
 - [x] [WACV'2018] Learning to Detect Human-Object Interactions
 - [ ] [CVPR'2021] Seesaw Loss for Long-Tailed Instance Segmentation
 - [ ] [CVPR'2020] Unbiased Scene Graph Generation from Biased Training 
+- [ ] [IJCAI'2021] RR-Net: Injecting Interactive Semantics in Human-Object Interaction Detection
