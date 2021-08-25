@@ -16,6 +16,7 @@ Keep updated.
 
 - 🎈[ACMMM'2020] ConsNet: Learning Consistency Graph for Zero-Shot **Human-Object Interaction Detection**, [[Paper]](https://arxiv.org/pdf/2008.06254.pdf), [[Code]](https://github.com/yeliudev/ConsNet)
 - [ECCV'2020] Visual **Compositional Learning** for Human-Object Interaction Detection, [[Paper]](https://arxiv.org/pdf/2007.12407.pdf), [[Code]](https://github.com/zhihou7/VCL)
+- [CVPR'2020] PPDM: Parallel Point Detection and Matching for Real-time Human-Object Interaction Detection, [[Paper]](https://arxiv.org/pdf/1912.12898.pdf), [[Code]](https://github.com/YueLiao/PPDM)
 
 ### 2018
 
@@ -40,4 +41,6 @@ Keep updated.
 - [ ] [CVPR'2020] Unbiased Scene Graph Generation from Biased Training 
 - [ ] [IJCAI'2021] RR-Net: Injecting Interactive Semantics in Human-Object Interaction Detection
 - [ ] [CVPR'2018] Detecting and Recognizing Human-Object Interactions
-- [ ] [CVPR'2020] PPDM: Parallel Point Detection and Matching for Real-time Human-Object Interaction Detection
+- [x] [CVPR'2020] PPDM: Parallel Point Detection and Matching for Real-time Human-Object Interaction Detection
+- [ ] [CVPR'2021] Sparse R-CNN: End-to-End Object Detection with Learnable Proposals
+
