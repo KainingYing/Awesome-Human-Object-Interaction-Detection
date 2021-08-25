@@ -40,3 +40,4 @@ Keep updated.
 - [ ] [CVPR'2020] Unbiased Scene Graph Generation from Biased Training 
 - [ ] [IJCAI'2021] RR-Net: Injecting Interactive Semantics in Human-Object Interaction Detection
 - [ ] [CVPR'2018] Detecting and Recognizing Human-Object Interactions
+- [ ] [CVPR'2020] PPDM: Parallel Point Detection and Matching for Real-time Human-Object Interaction Detection
