@@ -16,7 +16,7 @@ Keep updated.
 
 - 🎈[ACMMM'2020] ConsNet: Learning Consistency Graph for Zero-Shot **Human-Object Interaction Detection**, [[Paper]](https://arxiv.org/pdf/2008.06254.pdf), [[Code]](https://github.com/yeliudev/ConsNet)
 - [ECCV'2020] Visual **Compositional Learning** for Human-Object Interaction Detection, [[Paper]](https://arxiv.org/pdf/2007.12407.pdf), [[Code]](https://github.com/zhihou7/VCL)
-- [CVPR'2020] PPDM: Parallel Point Detection and Matching for Real-time Human-Object Interaction Detection, [[Paper]](https://arxiv.org/pdf/1912.12898.pdf), [[Code]](https://github.com/YueLiao/PPDM)
+- [**One-Stage**] [CVPR'2020] PPDM: Parallel Point Detection and Matching for Real-time Human-Object Interaction Detection, [[Paper]](https://arxiv.org/pdf/1912.12898.pdf), [[Code]](https://github.com/YueLiao/PPDM)
 
 ### 2018
 
@@ -27,7 +27,24 @@ Keep updated.
 - HICO-DET, [[Paper]](http://www-personal.umich.edu/~ywchao/publications/chao_wacv2018.pdf), [[Homepage]](http://www-personal.umich.edu/~ywchao/hico/)
 - V-COCO, [[Paper]](https://arxiv.org/pdf/1505.04474.pdf)
 
+## Split
+
+### Transformer-Based
+- [ ] [arXiv'2021.8] Mining the Benefits of Two-stage and One-stage HOI Detection, [Paper](https://arxiv.org/pdf/2108.05077.pdf)
+
+### One-Stage
+- [ ] [arXiv'2021.8] Mining the Benefits of Two-stage and One-stage HOI Detection, [Paper](https://arxiv.org/pdf/2108.05077.pdf)
+- [ ] [CVPR'2020] PPDM: Parallel Point Detection and Matching for Real-time Human-Object Interaction Detection, [[Paper]](https://arxiv.org/pdf/1912.12898.pdf), [[Code]](https://github.com/YueLiao/PPDM)
+- [ ] [CVPR'2021] Glance and Gaze: Inferring Action-aware Points for One-Stage Human-Object Interaction Detection, [[Paper]](https://arxiv.org/pdf/2104.05269.pdf), [[Code]]()
+- [ ] [CVPR'2020] Learning Human-Object Interaction Detection using Interaction Points
+- [ ] [ECCV'2020] UnionDet: Union-Level Detector Towards Real-Time Human-Object Interaction Detection
+
+### Two-Stage
+
+
 ## Related works
+
+
 
 
 
@@ -43,4 +60,7 @@ Keep updated.
 - [ ] [CVPR'2018] Detecting and Recognizing Human-Object Interactions
 - [x] [CVPR'2020] PPDM: Parallel Point Detection and Matching for Real-time Human-Object Interaction Detection
 - [ ] [CVPR'2021] Sparse R-CNN: End-to-End Object Detection with Learnable Proposals
+- [ ] [**One-Stage**] [CVPR'2021]Glance and Gaze: Inferring Action-aware Points for One-Stage Human-Object Interaction Detection
+- [ ] [ICCV'2015] HICO: A Benchmark for Recognizing Human-Object Interactions in Images
+- [ ] [Transformer-Based] [arXiv'2021.8] Mining the Benefits of Two-stage and One-stage HOI Detection
 
